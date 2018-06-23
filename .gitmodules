@@ -148,3 +148,6 @@
 [submodule "chatbot"]
 	path = chatbot
 	url = https://github.com/forslund/fallback-aiml.git
+[submodule "Alfred"]
+	path = Alfred
+	url = git@github.com:BugHunterPhilosopher/Alfred.git
