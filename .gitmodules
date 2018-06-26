@@ -148,6 +148,88 @@
 [submodule "chatbot"]
 	path = chatbot
 	url = https://github.com/forslund/fallback-aiml.git
+[submodule "number-generator"]
+	path = number-generator
+	url = https://github.com/angry-frog/number-generator-skill.git
+[submodule "nature-sounds-skill"]
+	path = nature-sounds-skill
+	url = https://github.com/Hasinator7/nature-sound-skill.git
+[submodule "whats-nearby"]
+	path = whats-nearby
+	url = https://github.com/AIIX/whats-nearby
+[submodule "skill-farting"]
+	path = skill-farting
+	url = https://github.com/aussieW/skill-farting.git
+[submodule "carstena-mosquito-speak"]
+	path = carstena-mosquito-speak
+	url = https://github.com/CarstenAgerskov/skill-mosquito-speak
+[submodule "skill-federal-closings"]
+	path = skill-federal-closings
+	url = https://github.com/mason88/skill-federal-closings
+[submodule "matthew-kickstarter-tracker"]
+	path = matthew-kickstarter-tracker
+	url = https://github.com/MatthewScholefield/skill-kickstarter-tracker
+[submodule "flight-gear-copilot"]
+	path = flight-gear-copilot
+	url = https://github.com/merspieler/flight-gear-copilot.git
+[submodule "irc-skill"]
+	path = irc-skill
+	url = https://github.com/merspieler/irc-skill
+[submodule "podcast-skill"]
+	path = podcast-skill
+	url = https://github.com/JamesPoole/podcast-skill
+[submodule "tjoen-better-jokes"]
+	path = tjoen-better-jokes
+	url = https://github.com/tjoen/skill-better-jokes
+[submodule "CryptoSkill"]
+	path = CryptoSkill
+	url = https://github.com/Gobbenobber/skill-CryptoSkill
+[submodule "mycroft-persona-fallback"]
+	path = mycroft-persona-fallback
+	url = https://github.com/MycroftAI/skill-fallback-persona.git
+[submodule "jarbas-parrot"]
+	path = jarbas-parrot
+	url = https://github.com/JarbasAl/skill-parrot
+[submodule "matthew-repeat-recent-skill"]
+	path = matthew-repeat-recent-skill
+	url = https://github.com/MatthewScholefield/skill-repeat-recent
+[submodule "skill-confucius-say"]
+	path = skill-confucius-say
+	url = https://github.com/aussieW/skill-confucius-say.git
+[submodule "food-wizard"]
+	path = food-wizard
+	url = https://github.com/AIIX/food-wizard.git
+[submodule "mycroft-spotify"]
+	path = mycroft-spotify
+	url = https://github.com/forslund/spotify-skill.git
+[submodule "skill-subsonic-media"]
+	path = skill-subsonic-media
+	url = https://github.com/ejstacey/skill-subsonic-media.git
+[submodule "jrwarwick-jira-agent-skill"]
+	path = jrwarwick-jira-agent-skill
+	url = https://github.com/jrwarwick/jrwarwick-jira-agent-skill.git
+[submodule "deviloper-silly-name-maker"]
+	path = deviloper-silly-name-maker
+	url = https://github.com/RHackrid/deviloper-silly-name-maker
+[submodule "oliveralonzo-insipirational-quotes"]
+	path = oliveralonzo-insipirational-quotes
+	url = https://github.com/oliveralonzo/skill-inspirational-quotes
+[submodule "nmap-skill"]
+	path = nmap-skill
+	url = https://github.com/Nhoya/nmap-skill
+[submodule "word-of-the-day-skill"]
+	path = word-of-the-day-skill
+	url = https://github.com/adropofilm/word-of-the-day-skill
+[submodule "PFE1718-skill-listener"]
+	path = PFE1718-skill-listener
+	url = https://github.com/PFE1718/mycroft-skill-listener.git
+[submodule "PFE1718-habit-miner"]
+	path = PFE1718-habit-miner
+	url = https://github.com/PFE1718/mycroft-habit-miner-skill.git
+[submodule "PFE1718-automation-handler"]
+	path = PFE1718-automation-handler
+	url = https://github.com/PFE1718/mycroft-automation-handler.git
 [submodule "Alfred"]
 	path = Alfred
 	url = git@github.com:BugHunterPhilosopher/Alfred.git
+
