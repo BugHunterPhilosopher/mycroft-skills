@@ -233,3 +233,6 @@
 	path = Alfred
 	url = git@github.com:BugHunterPhilosopher/Alfred.git
 
+[submodule "clementine-player"]
+	path = clementine-player
+	url = git@github.com:BugHunterPhilosopher/clementine-player.git
